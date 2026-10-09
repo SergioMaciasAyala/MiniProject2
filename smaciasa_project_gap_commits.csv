@@ -1,0 +1,188 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;antonyuryev_elsevierapi;ff8de4154e8ab25ae4eef3bc81ddef6cf87f579e;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1705410250;Add files via upload
+pre;antonyuryev_elsevierapi;da09065ed098489ac9ff113f08da0145e2ee0940;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1705414462;Add files via upload
+pre;antonyuryev_elsevierapi;5f50b8c4b94a7ca5702c4b924bec8be9195c42bb;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713205490;Add files via upload
+pre;antonyuryev_elsevierapi;66ad9422669ed0d245d5ed1658dd3fe807150331;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713205532;Add files via upload
+pre;antonyuryev_elsevierapi;e1e85239e201900339a813dfd09f45090fb37e7f;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713205572;Add files via upload
+pre;antonyuryev_elsevierapi;926a6e638efe653334501329409e0ab3d6b2e6de;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713205607;Add files via upload
+pre;antonyuryev_elsevierapi;4ca43df5fa0803a6c5ed72353c98ac717bd3abf2;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713205674;Add files via upload
+pre;antonyuryev_elsevierapi;54b72a1c316604891ce19665e8e9086c4a3b65dd;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713881035;Read from RNEF file example added
+pre;antonyuryev_elsevierapi;734b8ec604250be5ff5f01c726f76c3458d43e63;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713881079;Add files via upload
+pre;antonyuryev_elsevierapi;f2c7547dfaf0b627f6d84a7f945d1c48c692bdec;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1713881233;Add files via upload
+post;antonyuryev_elsevierapi;75b691fe395d6b990ed76638428b2b181ce2ffe1;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724793131;Add files via upload
+post;antonyuryev_elsevierapi;7e8c81c8bb3a4e0d4d7e91923f2388ff6a3ee9fe;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724793257;Add files via upload
+post;antonyuryev_elsevierapi;3bbf252cea44972b8dcfad56b74c16291297e636;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724793327;Add files via upload
+post;antonyuryev_elsevierapi;90b77b7e2c7dc9a344c41fde7cd2284b047a2e45;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724793426;Add files via upload
+post;antonyuryev_elsevierapi;2b29a820c40d8ddbbae5b6d071a66be33c95bd96;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724793467;Add files via upload
+post;antonyuryev_elsevierapi;668361948340f247ef212405c2f16bea7e343787;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724945966;Add files via upload
+post;antonyuryev_elsevierapi;afaf1abb12c4ef0098969c50850ba6ee49836271;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1724946018;Add files via upload
+post;antonyuryev_elsevierapi;815ee7d97bb271a6fda567c95d4a70941ff77ddd;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1727639786;PSObject from defaultdicts, RepurposeDrug supports toxicity
+post;antonyuryev_elsevierapi;c9a35b40d21314a5992686969b76d44ef43c5121;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1727639825;Add files via upload
+post;antonyuryev_elsevierapi;18ce6c58c148f80d6fb17e99514c66dfb0718990;Anton Yuryev <66886638+AntonYuryev@users.noreply.github.com>;1727639935;getTargets added
+pre;bc_retina;170c1ffa68ba13d866c9da27a49075d2afa3b195;Brian Cohn <13772726+bc@users.noreply.github.com>;1587071265;#50 ssh deps and gh
+pre;bc_retina;b8a011689ece6bd400d9778e18aa0d1e2d4d6fd8;bc <brian.cohn@usc.edu>;1592004959;sp err
+pre;bc_retina;e0191fa77ac3d0afeb8a035ac0ceed69570e3b0c;bc <brian.cohn@usc.edu>;1592004981;Merge branch 'master' of github.com:bc/retina
+pre;bc_retina;775e9e7fdd049647b670e967a62231a1e24a43ff;bc <bc@alumni.usc.edu>;1600291892;rm output folder
+pre;bc_retina;2135c92a4d7ef2399e035a66dcd5222a2d097182;bc <bc@alumni.usc.edu>;1600291959;re-added output with gitignore
+pre;bc_retina;f1c8800aced799809912a965e1c88126d3ceec5d;bc <brian.cohn@fibronostics.com>;1612382875;begin juan diagnostics
+pre;bc_retina;8fb85a6663650a51518745177c3fb65f5f74b002;bc <brian.cohn@fibronostics.com>;1612392897;closing out juan-changes
+pre;bc_retina;a279ced224cf7a5c733e91da0b87f3365f93f0dc;bc <bc@alumni.usc.edu>;1613551700;op
+pre;bc_retina;f1a64729ac000c370f7e33a8027cbfed51d8106d;bc <bc@alumni.usc.edu>;1613552004;tutorial test
+pre;bc_retina;ee969afcfb8745845d11cd67ed1211067d4f3543;bc <bc@alumni.usc.edu>;1613552073;renamed @lschmitz
+post;bc_retina;36890ea486e18c2b0742a30f5284b5a9277a3fa3;Brian Cohn <13772726+bc@users.noreply.github.com>;1737352277;Create repomix.yml
+post;bc_retina;41333a5cf4a8f2a4b0bbe63d11dff285d4786b6c;Brian Cohn <13772726+bc@users.noreply.github.com>;1737352288;Update ci.yml
+post;bc_retina;21b36419df3d6a6fe235ae4811081d385fd13351;Brian Cohn <13772726+bc@users.noreply.github.com>;1737352297;Update ci.yml
+post;bc_retina;8b29d2308ab9f19716abed5c79b1d39f0dbf7bc9;Brian Cohn <13772726+bc@users.noreply.github.com>;1737352336;rm workflow dispatch
+post;bc_retina;b7c524c2d05428e667661ac3c32d20a989c2221d;Brian Cohn <13772726+bc@users.noreply.github.com>;1737352527;rm tutorial.md
+pre;caseywdunn_siphonophore_phylogeny_2017;9b50516026d7ba7e1bb8532fc3d02d8daeb4e3d6;Cat Munro <catriona_munro@brown.edu>;1526673699;new knit with supp. info pdf output fix
+pre;caseywdunn_siphonophore_phylogeny_2017;5011489ad1a63a44c671e73af7b29f90af2ae1e2;Cat Munro <catriona_munro@brown.edu>;1526674842;added new supplementary figures file
+pre;caseywdunn_siphonophore_phylogeny_2017;1501118c91f0596b0b6a1432565a0b2583c16061;Cat Munro <catriona_munro@brown.edu>;1526678612;minor typos and references fixed
+pre;caseywdunn_siphonophore_phylogeny_2017;33078a0592d809854eec75023b97be798fa1349a;Catriona Munro <catriona_munro@brown.edu>;1530138144;Added new graphical abstract
+pre;caseywdunn_siphonophore_phylogeny_2017;48e75ddd8cf593b767884730a393eb91ac79b6da;Catriona Munro <catriona_munro@brown.edu>;1530138471;Removed old graphical abstract
+pre;caseywdunn_siphonophore_phylogeny_2017;b760d680f6e3d3b66c8b1b5e26d40b7be89361e8;Catriona Munro <catriona_munro@brown.edu>;1530138552;Updated read.me to link to MPE paper
+pre;caseywdunn_siphonophore_phylogeny_2017;b77196f7e1b2325ad00ca053ab6bffc8271f185f;Casey Dunn <casey.dunn@yale.edu>;1530625388;added graphical abstract figures
+pre;caseywdunn_siphonophore_phylogeny_2017;ac94a34e94bfaf799331b9db42c9798e6d3fa169;Casey Dunn <casey.dunn@yale.edu>;1530627436;added vector file
+pre;caseywdunn_siphonophore_phylogeny_2017;2669d676e830c109a0dd9916d90412191fe13a98;Catriona Munro <catriona_munro@brown.edu>;1538959916;Added transcriptome files
+pre;caseywdunn_siphonophore_phylogeny_2017;afd1049effdeacfb601c5eb90e3901b2e6ef7ab0;Cat Munro <catriona_munro@alumni.brown.edu>;1562149259;added the rest of the transcriptomes
+post;caseywdunn_siphonophore_phylogeny_2017;9894d10c9cfd5cac5b379631a8ffcbfa0fbb294e;Casey Dunn <caseywdunn@gmail.com>;1676560305;added sra biosamples file
+post;caseywdunn_siphonophore_phylogeny_2017;3b01ea5cd61dcd8581e88228a0ec61e18f8a069f;Casey Dunn <caseywdunn@gmail.com>;1729000738;Added note on septata
+pre;giaf_hpipm;cd7858633a8ba9883704ae72eed55ef3735ea210;giaf <gianfri2008@hotmail.it>;1654094953;add obj computation dense_{qp,qcqp_}res
+pre;giaf_hpipm;b140f3633ef383cdf481ba4e8c94bdc21596c47b;giaf <gianfri2008@hotmail.it>;1654095605;add obj computation to tree_ocp_{qp,qcqp}_res
+pre;giaf_hpipm;a869678b5e3bc7089c3d04cf25107f40489cedd5;nielsvd <nielsvanduijkeren+github@gmail.com>;1654557663;Merge c61e998b65a2c9c5616fb2991cbaf4b6a652a33b into b140f3633ef383cdf481ba4e8c94bdc21596c47b
+pre;giaf_hpipm;04152e3d0118c2c683bb1c04e7dbab24381b7bcc;giaf <gianfri2008@hotmail.it>;1660316379;add dense_{qp,qcqp}_ipm_get_obj
+pre;giaf_hpipm;9fa4c1f976bd6f057db1fd0e264ff74de6df71ff;giaf <gianfri2008@hotmail.it>;1660318634;add tree_{qp,qcqp}_ipm_get_obj
+pre;giaf_hpipm;934b28285e95a15ce8b3bca585e8dc07aefa4cd5;giaf <gianfri2008@hotmail.it>;1664551402;dense_qp: some edit to regularization in kkt fact
+pre;giaf_hpipm;9791609a62993d40035050c501b4621233688685;giaf <gianfri2008@hotmail.it>;1664551526;Merge branch 'master' of https://github.com/giaf/hpipm
+pre;giaf_hpipm;c1184a7ed9e0a507529a27a4c6372aefeb7b44fc;giaf <gianfri2008@hotmail.it>;1665481052;add matlab/octave desnse qcqp interface & getting started example
+pre;giaf_hpipm;ddfde21a87a9f974ab05eb8263e4ae1b098d5d27;giaf <gianfri2008@hotmail.it>;1669313654;some updates to readme
+pre;giaf_hpipm;56949058ad9db99eeb8fdc6b2971d127c95b51e1;giaf <gianfri2008@hotmail.it>;1669314098;some more updates to readme
+post;giaf_hpipm;8340a99ba863eee25ad7b51372b264f685215127;giaf <gianfri2008@hotmail.it>;1684848719;add note to readme about matlab on windows
+post;giaf_hpipm;e794aece4606053d414268e80ef596fcd3185c2c;giaf <gianfri2008@hotmail.it>;1684849910;use hpipm_timer instead of gettimeofday in some test problems
+post;giaf_hpipm;425e5962fd3a17d8db9481890212d9c391e95826;giaf <gianfri2008@hotmail.it>;1687096224;fix loop index initialization in aux_mem
+post;giaf_hpipm;1e0c5bb153fa090b2e9c4e63438e7e23a31a8501;giaf <gianfri2008@hotmail.it>;1687268616;in ocp_qp_ipm_ws fix possible alignment issue on 32-bit systems
+post;giaf_hpipm;3ef6755b1bedc72e096c5e74f448ee6b080dee26;giaf <gianfri2008@hotmail.it>;1687517202;same fix for {dense,tree_ocp}_qp_ipm_ws
+post;giaf_hpipm;4d1606c5468d328b506a672d7a29d1253eac26ce;giaf <gianfri2008@hotmail.it>;1688120148;fix some header files
+post;giaf_hpipm;916e75266adaf234ce1aee83e84064197d2dcb25;giaf <gianfri2008@hotmail.it>;1688120772;fix some compilation warning in some test problems
+post;giaf_hpipm;8b21ec017f91db0be9bfbf5f3bc1d9d80042fa8e;giaf <gianfri2008@hotmail.it>;1688137473;removed variable size arrays from some test problems
+post;giaf_hpipm;3f09d5af992a599e2d31c7b6078d141f2449a01f;nielsvd <11959015+nielsvd@users.noreply.github.com>;1689066317;Use CMake option to find blasfeo (off by default to keep current behavior).
+post;giaf_hpipm;6b14d89d1db5310b09ea9a9d7ef6d7c62aba0a85;giaf <gianfri2008@hotmail.it>;1689088098;make timings portable in examples/c
+pre;iic-jku_ddsim;8b56fdd2caf5d05dbfd28df19620c763ab825936;Stefan Hillmich <stefan.hillmich@jku.at>;1582112091;Adjusting CMake - Enable debugging symbols in Debug configuration - Use simulation specific epsilon to detect errors during measurements - Small style fixes in code
+pre;iic-jku_ddsim;0e1cbee7f3b653ab5301443c654ff624a3a82af7;Lukas Burgholzer <lukas.burgholzer@jku.at>;1582817475;- allow tool and lib installation - changed lib and bin capitalization Signed-off-by: Lukas Burgholzer <lukas.burgholzer@jku.at>
+pre;iic-jku_ddsim;7b58e13a254a923c938291ea90111e5624bfa2d4;Lukas Burgholzer <lukas.burgholzer@jku.at>;1582817764;Small improvements - allow tool and lib installation - changed lib and bin capitalization Signed-off-by: Lukas Burgholzer <lukas.burgholzer@jku.at>
+pre;iic-jku_ddsim;1cb6c86ea7730ed11c8f8552d1394e594903a219;Lukas Burgholzer <lukas.burgholzer@jku.at>;1583324488;Fix symlinks Signed-off-by: Lukas Burgholzer <lukas.burgholzer@jku.at>
+pre;iic-jku_ddsim;76602a7d171f0eab1e5aa68166a29c5919d7817f;Lukas Burgholzer <lukas.burgholzer@jku.at>;1583324488;Fixes #1 Signed-off-by: Lukas Burgholzer <lukas.burgholzer@jku.at>
+pre;iic-jku_ddsim;d25dfcfadba8ab1a7e377b02c70355c72b5cdc0c;Stefan Hillmich <stefan.hillmich@jku.at>;1586002459;New Simulators and Benchmark - Base Simulator to inherit from - Added GroverSimulator for emulated Grovers search - Added QFRSimulator to execute a QuantumComputation - Added a benchmark app for https://github.com/Roger-luo/quantum-benchmarks - Included the Google Benchmark as dependency
+pre;iic-jku_ddsim;b00f1d065f425b0606e911d336c05989c26238ea;Stefan Hillmich <hillmich@users.noreply.github.com>;1586006587;Fixed refererence to private repo in .travis.yml
+pre;iic-jku_ddsim;f7f6b01648a9b2e77b4a8b53014e5f6acd9dbcab;Stefan Hillmich <stefan.hillmich@jku.at>;1586172981;Fixed label of benchmark
+pre;iic-jku_ddsim;2cc22e8aca79931d63f9858a9142248c19cdd3cf;Stefan Hillmich <stefan.hillmich@jku.at>;1586291699;Adjusted benchmark ranges so a run does not take multiple days
+pre;iic-jku_ddsim;c04195be3a115524d93a1f5adbc754ad12e67d0a;Stefan Hillmich <stefan.hillmich@jku.at>;1586330076;Min Estimator - added Min-Estimator to benchmarks for use with multiple repetitions
+post;iic-jku_ddsim;4aca639695a098e2d96a587fd4e08a5e63075e1a;Stefan Hillmich <stefan.hillmich@jku.at>;1592153622;Added support for ClassicControlledOperation
+post;iic-jku_ddsim;a8b9bf677db73603a69c7fad96eaed0ba42c6fde;Stefan Hillmich <stefan.hillmich@jku.at>;1592906799;Updated README.md and made Boost optional - Updated README.md to be more helpful to new users (feedback welcome) - Made Boost ProgramOptions optional (now only required to build the standalone executable)
+post;iic-jku_ddsim;acdbd18fe05e63337a58a1e17bb5eecbc4e14ae1;33Gjl1Xe <K11908851@jku.at>;1597920134;The variable isn't used afterwards and never freed.
+post;iic-jku_ddsim;86ba96ae313a2cbe204fd31f7c83afeefd2a4bd7;33Gjl1Xe <56347825+33Gjl1Xe@users.noreply.github.com>;1597920284;Merge acdbd18fe05e63337a58a1e17bb5eecbc4e14ae1 into a8b9bf677db73603a69c7fad96eaed0ba42c6fde
+post;iic-jku_ddsim;ff224f168efa2137f29ee92c58e7743ba91df618;Lukas Burgholzer <lukas.burgholzer@jku.at>;1599596813;Updated Travis config Trying to fix Windows build error.
+post;iic-jku_ddsim;4f0338fe80676f9bd841413694ac926bd310e1ee;HartwigB <bauer.hartwig@gmx.at>;1601913892;initial slicing commit
+post;iic-jku_ddsim;c1d99091ac01ecf5fba8f766f30bf0bb631ed7a0;Stefan Hillmich <stefan.hillmich@jku.at>;1601974232;Fixed erroring builds - Update QFR submodule - Remove GoogleTest (already included in extern/qfr/extern/dd_package) - Simulator CLI now checks maximum number of qubits - QFRSimulator now uses new structure for classical registers
+post;iic-jku_ddsim;a813f9b410a58cc1e04367c538fcbc902907ef31;HartwigB <bauer.hartwig@gmx.at>;1601993565;initial slicing changes
+post;iic-jku_ddsim;a7a248bb97b5f49bfe63fe4567db7371a88ec38d;Stefan Hillmich <hillmich@users.noreply.github.com>;1602240949;Merge pull request #5 from 33Gjl1Xe/tmpBranch The variable isn't used afterwards and never freed.
+post;iic-jku_ddsim;94972568317423dd8e9db32b99505395524fd8c9;Stefan Hillmich <stefan.hillmich@jku.at>;1602252772;Small fixes - Fixed possible nullptr dereference in apps/simple.cpp - Included JKQ branding in README.md
+pre;malbecc_lio;752ee17e56ab5404f2725317a1aaacca18f19893;v01d <phreakuencies@gmail.com>;1307553377;Arreglado cpu_recompute=1, ademas ahora eso es default
+pre;malbecc_lio;45fcc9dfb01b70b0e7787f9f0d9c01f7d960633d;v01d <phreakuencies@gmail.com>;1307553818;Soporte para full double
+pre;malbecc_lio;4ad58c13e2cf5421dd5a0a4a652b115eaa0c8a62;v01d <phreakuencies@gmail.com>;1312566992;Faltaba un archivo
+pre;malbecc_lio;ff491d95397c336625ee5e378f53672da177cfc0;v01d <phreakuencies@gmail.com>;1312567324;Ultimos cambios de cambio de precision
+pre;malbecc_lio;afca21bcea73fad9da151a14fa6644c5c496310a;v01d <phreakuencies@gmail.com>;1314976428;Limite de nombre de archivo es ahora 32. Tambien se arreglo un bug de indent
+pre;malbecc_lio;288b5c02f948c2af912650e976eba92c5fb4fcef;v01d <phreakuencies@gmail.com>;1314976465;Cambio en cantidad maxima de iteraciones de optimizacion
+pre;malbecc_lio;6b30dbfe4ddcfcbdb28c3cb63e9280645fd5e044;v01d <phreakuencies@gmail.com>;1314976554;Acumulacion de fuerzas de exch por separado
+pre;malbecc_lio;5b6ba44766516ff5942b787dee773bc88e289d61;v01d <phreakuencies@gmail.com>;1314976806;Soporte para compilar todas las variantes juntas. Tambien se guardan las fuerzas en forces.out
+pre;malbecc_lio;23ccd8d75c6b2f8a375d238a9fe931d9651d4f1c;v01d <phreakuencies@gmail.com>;1314976898;Agrego hemo2
+pre;malbecc_lio;b886892aebfeb4717927ebd80ac50af4822afbbd;v01d <phreakuencies@gmail.com>;1314976945;Scripts para correr (con todas las variantes y exponentes para cada caso) y analizar fuerzas
+post;malbecc_lio;1f1f4bd32e50d4f7b68142ebfd801bf8da562186;Manuel Ferreria <m.ferreria@gmail.com>;1373565179;Commit inicial del proyecto LIO, eliminado todos los binarios, archivos temporales, outputs innecesarios
+post;malbecc_lio;dd639f382ba030d7127cb648562ac981e992c743;Manuel Ferreria <m.ferreria@gmail.com>;1373565945;Agregado un README
+post;malbecc_lio;2fe65f71bf1afa6d7260fba1be084debd947683c;Manuel Ferreria <m.ferreria@gmail.com>;1373566516;Agregadas unas corridas de ejemplo provistas por Mariano
+post;malbecc_lio;7d39530c7eb21dc32c28b1ce05aa08aa0f02dc94;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1375457770;Hice un liosolo para ejecutarse sin amber, ahora el amber debera llamar a SCF_in en vez de a SCF
+post;malbecc_lio;93f6016fede3e98f71808cc744494d38ded1e560;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1375466869;limpieza y agregado de verbose
+post;malbecc_lio;8655b00ffbb9bed7d624cdfe21f8ac3407840a7a;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1375466940;me faltaba SCF_in
+post;malbecc_lio;7893ab89488ddd9de6e0f3d9ac6889fab9d3b665;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1375468146;"input para garcha y para liosolo separados, hacen mas o menos lo mismo pero diferente ;)"
+post;malbecc_lio;cab1233d7ea816e24e08ca440bbf495c655adafa;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1375468335;moviendo los tests
+post;malbecc_lio;d5d847b373e17967f930b8398d174b8e830d6c5a;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1376330149;liosolo
+post;malbecc_lio;bbf6b4b576fe4ea6d463c206a151ced78b21bd5c;nanolebrero <nanolebrero@qi.fcen.uba.ar>;1376592591;cambios en los nombres de los archivos de entrada y salida
+pre;neurodatawithoutborders_matnwb;143735a992225da2dd7b0d3f7ef391030814a1a2;Lawrence <lancewiu@tutanota.com>;1508370409;Completed Dataset, Attribute, and Link verification for generated classes
+pre;neurodatawithoutborders_matnwb;dbba6593c59a1d32418fed6a459c495f476354a7;Lawrence <lancewiu@tutanota.com>;1508860931;General Fixes - writeClass: - Support for default groups (only for first level) - Namespaces are now distributed to each class struct. - neurodata_type and namespace now populate by default if they do not exist in varargin - Group: Values defaulted to util.StructMap to reduce headache - StructMap: added custom isEmpty function - nwbRead: reading in Links now force absolute paths instead of relative - misc: - Empty strings now stored as {''} instead of {} (which exports as null in hdf5) - Changed matnwb.m to nwbfile.m - Added basic testing suite (nwbtest.m)
+pre;neurodatawithoutborders_matnwb;4b449e8969ca2dd1a606d6c1b1e46fa65c4837fa;Lawrence <lancewiu@tutanota.com>;1508960346;Added Inno Setup file
+pre;neurodatawithoutborders_matnwb;94909be1373e3472eb89a57f2f8b7a09754a8b1d;Lawrence <lancewiu@tutanota.com>;1509053736;writeClass now includes shape constraints
+pre;neurodatawithoutborders_matnwb;891afcdab1ca8697575746c09d06629cc934d343;Lawrence <lancewiu@tutanota.com>;1509053751;custom validation function for TimeSeries
+pre;neurodatawithoutborders_matnwb;b73d597d7b1b2533cf4b4bbc8219c4911fe3ea37;Nathan Clack <nclack@gmail.com>;1510064229;Add license
+pre;neurodatawithoutborders_matnwb;ada22491c26079645a5bdc4ef7b1013dad16148a;Nathan Clack <nathan@vidriotech.com>;1510072329;add schema and some documentation
+pre;neurodatawithoutborders_matnwb;80efba2a273e7cbff217f24157d218c041dc1012;Nathan Clack <nathan@vidriotech.com>;1510074500;Added README
+pre;neurodatawithoutborders_matnwb;e8e9a3d73f5589f6ed43b7f237df0acd9ffd4745;Nathan Clack <nclack@gmail.com>;1510074572;typo
+pre;neurodatawithoutborders_matnwb;164f1edcd3efdf4d6efeedfc255e2421fe02608d;Nathan Clack <nclack@gmail.com>;1510075325;removed useless heading
+post;neurodatawithoutborders_matnwb;69bf78632472cf4ca82c1727538360ec2294270d;Mark Cafaro <mark.cafaro@mathworks.com>;1517516192;Changed nwbtest to be a test suite runner for the project
+post;neurodatawithoutborders_matnwb;4929da554e2ff11bc7529045a56be86ff7c9fcf8;Mark Cafaro <mark.cafaro@mathworks.com>;1517516231;Added some test remnants to the .gitignore
+post;neurodatawithoutborders_matnwb;19b0fbc202c37106b3652a7b91ec840a5866e9b2;Mark Cafaro <mark.cafaro@mathworks.com>;1517516522;Added unit tests for the parseClass function
+post;neurodatawithoutborders_matnwb;d13844a19fa60def5800216a5c10454ac19bee2d;Mark Cafaro <mark.cafaro@mathworks.com>;1517516554;Added unit tests for the writeClass function
+post;neurodatawithoutborders_matnwb;158369a8cfbee67c1725d6f1e1d46f424b2cddb0;Mark Cafaro <mark.cafaro@mathworks.com>;1517516693;Added unit tests for the Group class
+post;neurodatawithoutborders_matnwb;350139f5eed43a3189a873cbeb4884239bb2161f;Mark Cafaro <mark.cafaro@mathworks.com>;1517516709;Added unit tests for the Link class
+post;neurodatawithoutborders_matnwb;b40691856a02970ebed152bd327ffb23939a11f2;Mark Cafaro <mark.cafaro@mathworks.com>;1517516724;Added unit tests for the StructMap class
+post;neurodatawithoutborders_matnwb;690f55da64e7761fa19eb019fe377c0749c02b91;Mark Cafaro <mark.cafaro@mathworks.com>;1517516803;Added base class for round trip to disk tests
+post;neurodatawithoutborders_matnwb;aec542193c9ced69c19f8907376e2a3b37754e09;Mark Cafaro <mark.cafaro@mathworks.com>;1517516857;Added base class for input and output compatibility with PyNWB tests
+post;neurodatawithoutborders_matnwb;14d40750b17c82aa7a2268b802757ce7c644e7b0;Mark Cafaro <mark.cafaro@mathworks.com>;1517517129;Added system tests for round trip and PyNWB compat of the TimeSeries class
+pre;prjemian_spec2nexus;df221d8162383cbd93c7cc16addfceec357a9390;Pete R Jemian <prjemian@users.noreply.github.com>;1707520848;Merge pull request #306 from prjemian/dependabot/github_actions/actions/checkout-4 Bump actions/checkout from 2 to 4
+pre;prjemian_spec2nexus;5bfccb9f16383331c1cdb10710e5cf1092ef3e42;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1707520883;Bump actions/setup-python from 1 to 5 Bumps [actions/setup-python](https://github.com/actions/setup-python) from 1 to 5. - [Release notes](https://github.com/actions/setup-python/releases) - [Commits](https://github.com/actions/setup-python/compare/v1...v5) --- updated-dependencies: - dependency-name: actions/setup-python   dependency-type: direct:production   update-type: version-update:semver-major ... Signed-off-by: dependabot[bot] <support@github.com>
+pre;prjemian_spec2nexus;8d60d83354b0fe5db768b3b7b9d20d8fd5163593;Pete R Jemian <prjemian@users.noreply.github.com>;1707520908;Merge pull request #307 from prjemian/dependabot/github_actions/actions/setup-python-5 Bump actions/setup-python from 1 to 5
+pre;prjemian_spec2nexus;05d8133f5ef8ff7ae3407ec9b1461076f0de9a04;Pete R Jemian <prjemian@users.noreply.github.com>;1707520921;Merge pull request #308 from prjemian/dependabot/github_actions/github/codeql-action-3 Bump github/codeql-action from 2 to 3
+pre;prjemian_spec2nexus;a5c75965592779b60019eb3d26ed2bf11918dc87;Pete R Jemian <prjemian@gmail.com>;1707527918;CI sphinx
+pre;prjemian_spec2nexus;ce8bd12d8c196c61d84da9b35bf7387be97bdcf8;Pete R Jemian <prjemian@gmail.com>;1707527945;CI rename
+pre;prjemian_spec2nexus;e0ec64547694539136e1d81080877c7710feae8f;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1707724445;Bump actions/setup-python from 4 to 5 Bumps [actions/setup-python](https://github.com/actions/setup-python) from 4 to 5. - [Release notes](https://github.com/actions/setup-python/releases) - [Commits](https://github.com/actions/setup-python/compare/v4...v5) --- updated-dependencies: - dependency-name: actions/setup-python   dependency-type: direct:production   update-type: version-update:semver-major ... Signed-off-by: dependabot[bot] <support@github.com>
+pre;prjemian_spec2nexus;a0618849737dc0e602d10835e869f2b6936b52e1;Pete R Jemian <prjemian@users.noreply.github.com>;1707725525;Merge pull request #309 from prjemian/dependabot/github_actions/actions/setup-python-5 Bump actions/setup-python from 4 to 5
+pre;prjemian_spec2nexus;14f38da64bd7f87b1c0bf3c3d02a7dcc6aa218c5;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1713166558;Bump peaceiris/actions-gh-pages from 3 to 4 Bumps [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) from 3 to 4. - [Release notes](https://github.com/peaceiris/actions-gh-pages/releases) - [Changelog](https://github.com/peaceiris/actions-gh-pages/blob/main/CHANGELOG.md) - [Commits](https://github.com/peaceiris/actions-gh-pages/compare/v3...v4) --- updated-dependencies: - dependency-name: peaceiris/actions-gh-pages   dependency-type: direct:production   update-type: version-update:semver-major ... Signed-off-by: dependabot[bot] <support@github.com>
+pre;prjemian_spec2nexus;0af9ae95dc621adc133afba5833f10b9812e6659;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1713190408;Bump peaceiris/actions-gh-pages from 3 to 4 (#310)
+post;prjemian_spec2nexus;988a7b545eb7ae0be89bbec03363656ae5c69677;Pete R Jemian <prjemian@gmail.com>;1746714243;DOC #303 update copyright
+post;prjemian_spec2nexus;fe04c23f89cd31386098daa54cde62d56eb19d7e;Pete R Jemian <prjemian@gmail.com>;1746719942;DOC #303 update copyright
+post;prjemian_spec2nexus;b584c5d3513f1018788fb57d12b586e900a9a54f;Pete R Jemian <prjemian@gmail.com>;1746720640;PKG #303 package builds!
+post;prjemian_spec2nexus;d30430d66da25cb4c81c5f5fcfacfdda68becb18;Pete R Jemian <prjemian@gmail.com>;1746723798;DOC #303
+post;prjemian_spec2nexus;377e6be1504e92e36b43468958ad353db2357622;Pete R Jemian <prjemian@gmail.com>;1746723810;CI #303
+post;prjemian_spec2nexus;3102843e74aedaae4f95d94c02434f1da2ddaf2d;Pete R Jemian <prjemian@gmail.com>;1746729467;PKG #303 include more
+post;prjemian_spec2nexus;6776a8425a595c4fa097a6f2a2fb98d9eb6a345a;Pete R Jemian <prjemian@gmail.com>;1746730168;CI #303 code workflow
+post;prjemian_spec2nexus;a269c4843212c234dc6dedd0499c23dd9c84e60e;Pete R Jemian <prjemian@gmail.com>;1746731518;CI #303 pin twine
+post;prjemian_spec2nexus;03603f9674f89cff045095871886da5a0bf56c8a;Pete R Jemian <prjemian@gmail.com>;1746732201;CI #303 twine
+post;prjemian_spec2nexus;349208d3fd9c2813c3964cc6a112bd9773fd56a7;Pete R Jemian <prjemian@gmail.com>;1746732602;CI #303
+pre;spirit-code_spirit;05f37fadfd173723223dc9a78545ddba188132c7;Moritz Sallermann <m.sallermann@fz-juelich.de>;1664983817;Solver_ST: cleaning up
+pre;spirit-code_spirit;0171f9dbe693fa11ee7abc480bf290e46b1bf945;Moritz Sallermann <m.sallermann@fz-juelich.de>;1664983995;"Hamiltonian: Added function Linear_Gradient_Contribution_Single_Spin Computes the matrix that corresponds to the linear gradient ""self interaction"" of a single spin."
+pre;spirit-code_spirit;5aa4a9d258776d627bf2caa4420b191ff5bca80d;Moritz Sallermann <m.sallermann@fz-juelich.de>;1664984314;Solver_Kernels: rewrote cayley transform
+pre;spirit-code_spirit;27fba1ba3c7d503cd9209711682319bc7fb0cf55;MSallermann <36901117+MSallermann@users.noreply.github.com>;1668769859;Merge 7fed5e2c2a4e35f404cd7fe9cdd0b7211898c96b into f19764ff0653bdd62b7e54db656e23b873107c65
+pre;spirit-code_spirit;32542a8ec29a2339dcf69d56a2b502cfc7ec63f7;Moritz Sallermann <m.sallermann@fz-juelich.de>;1670697427;Solver_ST.hpp: formatted
+pre;spirit-code_spirit;358dba92a17b656f0a3afa740ae8f372f10c82a0;Moritz Sallermann <m.sallermann@fz-juelich.de>;1670853724;WIP
+pre;spirit-code_spirit;8ac1c3972a0a0f594036bc0adef372185c7cfa49;Moritz Sallermann <m.sallermann@fz-juelich.de>;1670861503;Solver_ST: Can now set the type of propagator (implicit vs spin aligned) at runtime
+pre;spirit-code_spirit;c7114be8e66d41ea3433d7cf632dd6b6ae5e955f;Moritz Sallermann <m.sallermann@fz-juelich.de>;1670891108;Solver_ST: fixed bug in implicit SAST
+pre;spirit-code_spirit;d2a368606548c210f9fc96b25c0c85b97561da5c;Moritz Sallermann <m.sallermann@fz-juelich.de>;1670891188;Hamiltonian: Anisotropy can now be fully deactivated via the C-API by passing magnitude 0. Previously, this would till leave idx_anisotropy>0 in Hamiltonian_Heisenberg.
+pre;spirit-code_spirit;64fa7990c01745d7833963d8fa9d1ec89fa03147;Moritz Sallermann <m.sallermann@fz-juelich.de>;1671448738;Solver_ST: cleanup - removed some comments - formatted
+post;spirit-code_spirit;0679869538e98d5716a5ee06192523c837c55d5e;MSallermann <36901117+MSallermann@users.noreply.github.com>;1675787878;Merge 60cc1c428475e93d033ba612256e21434b901b3b into f19764ff0653bdd62b7e54db656e23b873107c65
+post;spirit-code_spirit;4c19c997d7ebc3ec20f9f506d1dd47164d5df8e8;G. P. Mueller <gpmueller@outlook.com>;1675808225;Merge branch 'develop' into feature-ci-linting
+post;spirit-code_spirit;0bbbf5c57d0699d4d40b6eaaba555cdd6d97fdf0;G. P. Mueller <gpmueller@outlook.com>;1675808525;CI: update clang in `lint` job to 15
+post;spirit-code_spirit;12419faf60a45c544cf4c1ffb1c66a6f6732acc4;G. P. Mueller <gpmueller@outlook.com>;1675808712;Core: fix bad merge in CUDA Heisenberg Hamiltonian
+post;spirit-code_spirit;3285003e352e007cb70254084348105516bfa63a;G. P. Mueller <gpmueller@outlook.com>;1675809048;Formatting update
+post;spirit-code_spirit;d2a78d1605ae0087ecbca604ca05eb323e74ee72;G. P. Mueller <gpmueller@outlook.com>;1675810827;Update catch to v2.13.6 Should hopefully build with clang-15. Needed to replace uses of `REQUIRE( ... == Approx( ... ) )` with `REQUIRE_THAT( ... WithinAbs( ... ) )`.
+post;spirit-code_spirit;53f3a0a2db06a2e6c7a1dd03c35eada82383e45b;G. P. Mueller <gpmueller@outlook.com>;1676054743;Core: decrease precision of Lamor precession test This test trips up the Heun and SIB solvers when requiring higher precision. This is an issue in their implementations and should really be fixed.
+post;spirit-code_spirit;24c4cc3049af0e433c01300dcfa244b9391da1e7;G. P. Mueller <gpmueller@outlook.com>;1676063779;CI: updates and more OpenMP and CUDA builds  - update checkout action to v3, setup-python action to v4  - add a Windows OpenMP build using LLVM  - add an Ubuntu 22.04 CUDA build On Ubuntu 22.04, we get gcc 11.3 and nvidia-cuda-toolkit 11.5, which are not compatible, producing compilation errors. Therefore, a downgrade of gcc to version 10 is needed. Note: had to change `ChooseCompiler.cmake` to enable user-chosen compilers via `USER_COMPILER_CXX` etc.
+post;spirit-code_spirit;43ed4c637a6020fc468283bba77b4c5fed6fb27c;G. P. Mueller <gpmueller@outlook.com>;1676292350;"Core: clean up tests  - set catch output precision to 12 decimals  - tidy up some naming and code structure  - add some `constexpr`  - rephrase some titles towards ""should""  - anisotropy test: structure into `SECTION`s, try to make logic    clearer, add `INFO` outputs  - API test: added some `TODO` comments, as the test so far only tests    that there's no crashes"
+post;spirit-code_spirit;52d3b7f5672d272160a97670a8abdce3d930972d;G. P. Mueller <gpmueller@outlook.com>;1676294035;Core: improve API input-testing  - add `throw_if_nullptr` to `State.hpp` and use it throughout APIs.    This helps in debugging incorrect application code and prevents    some segfaults  - add `API_GOT_NULLPTR`  to `Exception_Classifier` and added comments    to indicate recoverable vs unrecoverable errors Also fix a bug in the `num_triangles` Python wrapper, which would trigger a segfault if the first call to the C API would return 0 for the number of triangles.
+pre;stanfordnlp_glove;550cb51652287a1eef5fac490a3360ece5200b71;Jakub Stasiak <jakub@stasiak.at>;1681419828;List Make too
+pre;stanfordnlp_glove;2cede75d9d6d8db08f630ea0ee20f43280525fde;Jakub Stasiak <jakub@stasiak.at>;1681441446;List the build/demo dependencies (#213) * List the build/demo dependencies Just to make it easier to know ahead of time what's needed (and what to install if something goes wrong). * List Make too
+pre;stanfordnlp_glove;502c67d19a10dba8854572dbafac5f0cdb5bc832;Andreas Florath <andreas@florath.net>;1681971527;Fixed overflow_threshold overflow when using 256G of memory The current implementation using an 'int' runs into an overflow when specifying 256G of memory. This patch fixed the problem changing the 'int' into a 'long long'. Signed-off-by: Andreas Florath <andreas@florath.net>
+pre;stanfordnlp_glove;a6f2b947358bd5a0bdb825af3ebe429ab43a3cb5;Andreas Florath <andreas@florath.net>;1681971527;Fixed overflow_threshold overflow when using 256G of memory The current implementation using an 'int' runs into an overflow when specifying 256G of memory. This patch fixed the problem changing the 'int' into a 'long long'. Signed-off-by: Andreas Florath <andreas@florath.net>
+pre;stanfordnlp_glove;039df6fa43a894f0927012ecfce7457a6197f61a;Alex Kindel <alextkindel@gmail.com>;1693412598;"Allow glove.c to output context vectors .txt output option only; setting model=3 row-concatenates the context vectors rather than adding them to the word vectors."
+pre;stanfordnlp_glove;f1a78f444f4eb33aa4b63002fd78a8c951c51a91;Alex Kindel <alextkindel@gmail.com>;1693412598;"Allow glove.c to output context vectors .txt output option only; setting model=3 row-concatenates the context vectors rather than adding them to the word vectors."
+pre;stanfordnlp_glove;a0b939ea4a8e0ef339acc1308a7791eaa16021e1;Tobrun Van Nuland <tobrun.van.nuland@gmail.com>;1694193558;Make check-nan static to resolve undefined reference to check_nan
+pre;stanfordnlp_glove;b3154ea00114bbbacc7d151ac2fd50e68f238610;Tobrun Van Nuland <tobrun.van.nuland@gmail.com>;1694193558;Make check-nan static to resolve undefined reference to check_nan
+pre;stanfordnlp_glove;a577eeeb8074f2c362fa7738143214eca9cb414f;John Bauer <horatio@gmail.com>;1695152516;fix indentation / () error in the model=3 option
+pre;stanfordnlp_glove;ef371889b868c46bcc72db544ec98f1debffb2dd;Erin George <eringeorge52@gmail.com>;1695156775;Merge 921ea3c4d0b443e1d8f9e4b73763e6279b189bf4 into a577eeeb8074f2c362fa7738143214eca9cb414f
+post;stanfordnlp_glove;2585bbae188f49df811dcacb4a70f4aa864970c1;leo9827 <741829374@qq.com>;1732347858;Update evaluate.py `np.Inf` was removed in the NumPy 2.0 release. Use `np.inf` instead.
+post;stanfordnlp_glove;540a09cb1b65c58fd84629346b44480d7e14dd62;leo9827 <741829374@qq.com>;1732347858;Update evaluate.py `np.Inf` was removed in the NumPy 2.0 release. Use `np.inf` instead.
+post;stanfordnlp_glove;25e1efb332413b7bea94f3b1e3a4b02f3cbc1292;Erin George <eringeorge52@gmail.com>;1732620239;Merge 921ea3c4d0b443e1d8f9e4b73763e6279b189bf4 into 540a09cb1b65c58fd84629346b44480d7e14dd62
+post;stanfordnlp_glove;7adeb6bd5470e7d5d1b5e59fa7447f6e389e9828;rlyCarlson <rileydc@stanford.edu>;1752547232;some updated documentation
+post;stanfordnlp_glove;89c07833e0f26ecfb6775ec7457286194e1683c3;rlyCarlson <rileydc@stanford.edu>;1752547293;update documentation format
+post;stanfordnlp_glove;17dce179cdd81fc7fef995497812b894df6070e1;rlyCarlson <rileydc@stanford.edu>;1752548253;updated training documentation
+post;stanfordnlp_glove;527df0918db946bcd4fbf41a165ee9c2116f3d32;Jesper Olsen <43079279+jesper-olsen@users.noreply.github.com>;1752831896;Fix(shuffle): Correct off-by-one errors in shuffle calls
+post;stanfordnlp_glove;9f1f5c306a8a499ce0889e6e18f80592134adae1;Jesper Olsen <43079279+jesper-olsen@users.noreply.github.com>;1752831896;Fix(shuffle): Correct off-by-one errors in shuffle calls
+post;stanfordnlp_glove;5886af74420df632327186d5210d52466952fb81;rlyCarlson <rileydc@stanford.edu>;1752867371;link to new vectors
+post;stanfordnlp_glove;2bec68e1186b96647084fe0c56e57f1e1d84ae4b;Jesper Olsen <43079279+jesper-olsen@users.noreply.github.com>;1753135990;Fix AttributeError: np.Inf removed in NumPy 2.0. Use np.inf instead.
