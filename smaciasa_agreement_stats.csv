@@ -1,6 +1,0 @@
-Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
-HasRecovered,70,100,0.33,1,3,3,Covers only my check of Chase's 10 projects.  Main issue was what counts as recovered. GitHub test-merge commits (Merge <sha> into <sha>) look like activity but are not. Also mixed up recovered with still active.
-WhyRecovered,70,100,NA,NA,3,3,Covers only my check of Chase's 10 projects. Free text so compared by meaning. All 3 splits came from the HasRecovered splits. Chase sometimes described PR test-merges as real merge work.
-ActivityPattern,80,100,0.64,1,2,2,Covers only my check of Chase's 10 projects. No set rule for irregular vs a trend. Yearly commit counts settled it better than eyeballing the monthly plot.
-Currentstatus,90,100,0.8,1,1,1,Covers only my check of Chase's 10 projects. Only split was which date to use. Rule is as of 2025-09-30 not today.
-RecentThemes,70,100,NA,NA,3,3,Covers only my check of Chase's 10 projects. Refactors and merges both go in Other which is easy to miss. Same two themes in a different order counted as agree.
