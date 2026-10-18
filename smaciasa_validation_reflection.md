@@ -1,7 +1,6 @@
 # Validation Reflection
 
-
-Before talking anything through, Chase and I agreed on 38 of 50 checks (76%). Currentstatus matched the most (90%, κ = 0.80) because it has a clear date rule. HasRecovered matched the least (70%, κ = 0.33). That makes sense: "did it recover" sounds simple, but neither of us had decided what counts as real activity. Most of our splits came from that one question.
+Across both of our checks (100 records), Chase and I agreed on 81 before talking anything through. We disagreed more on his projects (12 of 50) than on mine (7 of 50). Currentstatus matched the most (90%, κ = 0.78) because it has a clear date rule. RecentThemes matched the least (70%), mostly because we counted merges and refactors differently. HasRecovered was 80% (κ = 0.65). "Did it recover" sounds simple, but neither of us had decided what counts as real activity, and most of the splits on Chase's projects came from that question.
 
 ## What comes before a long gap
 
@@ -21,3 +20,4 @@ ProvToolbox had a 7-month gap in 2017–18 and then had its biggest year ever in
 2. **Mixing up fields.** I almost marked nrSiCap as not recovered just because it's dead now. Recovery is about what happened after the gap, and Currentstatus is about now.
 3. **The wrong date.** The status rule is "as of 2025-09-30," not today. That one rule flipped rbush.
 4. **Fuzzy categories.** "Irregular" was a catch-all, and refactors and merges both fall into "Other," which is easy to forget. Looking at yearly commit counts and counting every commit message one by one fixed most of these.
+
