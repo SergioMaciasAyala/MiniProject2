@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,80.0,100.0,0.65,1.00,4,4,"20 comparisons (both logs). Main issue was what counts as recovered: GitHub test-merge commits look like activity but are not, and recovered got mixed up with still active. One author value (Partly) was outside the Yes/No options."
+WhyRecovered,85.0,100.0,NA,NA,3,3,20 comparisons. Free text so compared by meaning. All 3 splits came from HasRecovered splits; none on Chase's check of smaciasa.
+ActivityPattern,80.0,100.0,0.70,1.00,4,4,"20 comparisons. No set rule for irregular vs a trend (gpboost, provtoolbox, hpipm, glove). Yearly commit counts settled it better than the monthly plot."
+Currentstatus,90.0,100.0,0.78,1.00,2,2,"20 comparisons. Both splits were about which date or branch counts: rule is as of 2025-09-30, and commits on non-default GitHub branches count (lio) but PR test-merge refs do not."
+RecentThemes,70.0,100.0,NA,NA,6,6,"20 comparisons. Merges, refactors and CI changes all go in Other, which both of us under-counted. Same two themes in a different order counted as agree."
