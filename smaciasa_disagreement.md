@@ -1,6 +1,6 @@
 # Disagreements
 
-**Parties:** smaciasa (validator) and cwolver1 / Chase (project owner). Chase reviewed and agreed to every resolution below.
+**Parties:** smaciasa (validator) and cwolver1 / Chase (project owner).
 
 I found 12 disagreements out of 50 checks. Here are four that show the main kinds of problems.
 
